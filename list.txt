@@ -1,0 +1,99 @@
+Partlist
+
+Exported from synth.sch at 6/8/2013 3:39:01 PM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device               Package  Library    Sheet
+
+C1       0.1uF          C-USC0805K           C0805K   adafruit   1
+C2       10uF           CPOL-USE2-5          E2-5     adafruit   1
+C3       0.33uF         CPOL-USE2-5          E2-5     adafruit   1
+C4       0.1uF          C-USC0805K           C0805K   adafruit   1
+C5       0.1uF          C-USC0805K           C0805K   adafruit   1
+C6       22pF           C-USC0805K           C0805K   adafruit   1
+C7       22pF           C-USC0805K           C0805K   adafruit   1
+C8       0.01uF         C-USC0805K           C0805K   adafruit   1
+C9       470pF          C-USC0805K           C0805K   adafruit   1
+C10      0.001uF        C-USC0805K           C0805K   adafruit   1
+C11      470pF          C-USC0805K           C0805K   adafruit   1
+C12      4.7uF          CPOL-USE2-5          E2-5     adafruit   1
+C13      0.1uF          C-USC0805K           C0805K   adafruit   1
+C14      10uF           CPOL-USE2-5          E2-5     adafruit   1
+C15      22pF           C-USC0805K           C0805K   adafruit   1
+C16      22pF           C-USC0805K           C0805K   adafruit   1
+C17      0.1uF          C-USC0805K           C0805K   adafruit   1
+C18      0.1uF          C-USC0805K           C0805K   adafruit   1
+D1       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D2       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D3       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D4       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D5       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D6       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D7       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D8       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D9       1N4148         DIODESOD-123         SOD-123  adafruit   1
+D10      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D11      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D12      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D13      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D14      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D15      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D16      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D18      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D19      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D20      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D21      1N4148         DIODESOD-123         SOD-123  adafruit   1
+D22      1N4001         SCHOTTKY-DIODEDO41-7 DO41-7   adafruit   1
+IC1      MEGA32-P       MEGA32-P             DIL40    meeblip    1
+IC2      ATMEGA168-20P  ATMEGA168-20P        DIL28-3  adafruit   1
+IC3      AD7302SMD      AD7302SMD            TSSOP20  SparkFun   1
+IC4      MCP6002        MCP6002              DIL08    meeblip    1
+IC5      AP1117E        AP1117E              SOT223-3 Diodes Inc 1
+LED1     3MM            LED3MM               LED3MM   meeblip    1
+M32ISP   AVRISP-6       AVRISP-6             AVRISP   icsp       1
+M328ISP  AVRISP-6       AVRISP-6             AVRISP   icsp       1
+MIDICH                  PINHD-2X4            2X04     pinhead    1
+OUT                     PINHD-1X2            1X02     pinhead    1
+P1       2.1MMJACKTHM   2.1MMJACKTHM         PJ-102A  adafruit   1
+POT1                    PINHD-1X3            1X03     pinhead    1
+POT2                    PINHD-1X3            1X03     pinhead    1
+POT3                    PINHD-1X3            1X03     pinhead    1
+POT4                    PINHD-1X3            1X03     pinhead    1
+POT5                    PINHD-1X3            1X03     pinhead    1
+POT6                    PINHD-1X3            1X03     pinhead    1
+POT7                    PINHD-1X3            1X03     pinhead    1
+POT8                    PINHD-1X3            1X03     pinhead    1
+PWR                     PINHD-1X2            1X02     pinhead    1
+Q1       16 MHz         CRYSTALHC49U-V       HC49U-V  crystal    1
+Q2                      CRYSTALHC49U-V       HC49U-V  crystal    1
+R1       10k            R-US_R0805           R0805    adafruit   1
+R2       10k            R-US_R0805           R0805    adafruit   1
+R3       220            R-US_R0805           R0805    adafruit   1
+R4       220            R-US_R0805           R0805    adafruit   1
+R5       220            R-US_R0805           R0805    adafruit   1
+R6       1K             R-US_R0805           R0805    adafruit   1
+R7       274K           R-US_R0805           R0805    adafruit   1
+R8       10.7K          R-US_R0805           R0805    adafruit   1
+R9       4.64K          R-US_R0805           R0805    adafruit   1
+R10      23.7K          R-US_R0805           R0805    adafruit   1
+R11      100            R-US_R0805           R0805    adafruit   1
+R12      1M             R-US_R0805           R0805    adafruit   1
+R13      220            R-US_R0805           R0805    adafruit   1
+R14      220            R-US_R0805           R0805    adafruit   1
+R15      220            R-US_R0805           R0805    adafruit   1
+R16      220            R-US_R0805           R0805    adafruit   1
+R17      220            R-US_R0805           R0805    adafruit   1
+R18      220            R-US_R0805           R0805    adafruit   1
+R19      220            R-US_R0805           R0805    adafruit   1
+R20      220            R-US_R0805           R0805    adafruit   1
+R21      220            R-US_R0805           R0805    adafruit   1
+R22      10k            R-US_R0805           R0805    adafruit   1
+R23      10k            R-US_R0805           R0805    adafruit   1
+SEQLED                  PINHD-1X12           1X12     pinhead    1
+SEQPOT                  PINHD-1X3            1X03     pinhead    1
+SEQSW                   PINHD-1X3            1X03     pinhead    1
+SYNSW                   PINHD-2X16           2X16     pinhead    1
+VOL                     PINHD-1X3            1X03     pinhead    1
